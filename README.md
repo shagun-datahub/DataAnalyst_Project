@@ -30,16 +30,27 @@ The main objective of this project is to clean, process, analyze, and visualize 
 ---
 📂 Assignments
 📑 Assignment 1 – Excel
+
 📑 Assignment 2 – Employee Data Processing in Excel/Google Sheets
+
 📑 Assignment 3 – Data Visualization in Excel/Google Sheets
+
 📑 Assignment 4 – SQL Table Design and Data Querying
+
 📑 Assignment 5 – SQL Advanced Queries
+
 📑 Assignment 6 – SQL Aggregation, Filtering & Conditional Classification
+
 📑 Assignment 7 – SQL Joins & Set Operations
+
 📑 Assignment 8 – SQL Analytical Queries & Views
+
 📑 Assignment 9 – SQL Date & Time Functions
+
 📑 Assignment 10 – SQL String & Pattern Matching
+
 📑 Assignment 11 – SQL Data Conversion & Concatenation
+
 ---
 
 ## 🔍 Key Insights
